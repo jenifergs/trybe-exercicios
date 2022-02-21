@@ -1,1 +1,1 @@
-Exercicio 2.4 seção github 
+Exercicio 2.1.4 sobre git e github
