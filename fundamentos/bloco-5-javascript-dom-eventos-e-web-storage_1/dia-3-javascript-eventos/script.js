@@ -52,7 +52,7 @@ function mudaCor (){
 }
 mudaCor ('feriados')
 
-// EXERCICIO - 4 
+// EXERCICIO - 4 =
 function fridayButton (Sexta) {
   let botao2 = document.createElement('button');
   botao2.innerText='Sexta-feira';
@@ -117,8 +117,6 @@ function legenda (cor) {
     divLegenda.classList='task';
   }
  }
-
-
 
 
 
