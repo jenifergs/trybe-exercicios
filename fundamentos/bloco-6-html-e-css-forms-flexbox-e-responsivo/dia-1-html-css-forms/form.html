@@ -14,7 +14,7 @@
         <h1>Concurso TrybeTrip</h1>
         <p>Concorra a uma viagem totalmente paga e com várias opções de destino &#x2708;&#xFE0F;</p>
     </header>
-    <form action="" method="post" id="form">
+    <form action="" method="GET" id="form">
         <div>
             <label for="">Nome:
                 <input type="text" name="nome" id="nome" class="botao-principal" minlength="10" maxlength="40">
@@ -25,34 +25,40 @@
             </label>
         </div>
         <div>
-            <label for="" id="destino">
-                <p>Qual seu destino preferido ?</p>
-                <input type="radio" name="cidade" id="radio-cidade">Cidade
-                <input type="radio" name="campo" id="radio-campo">Campo
-                <input type="radio" name="praia" id="radio-praia">Praia
-                <input type="radio" name="montanhas" id="radio-montanhas">Montanhas
-            </label>
+            <label for="radio-cidade"><input type="radio" name="opcoes" id="radio-cidade">Cidade</label>
+            <label for="radio-campo"><input type="radio" name="opcoes" id="radio-campo">Campo</label>
+            <label for="radio-praia"><input type="radio" name="opcoes" id="radio-praia">Praia</label>
+            <label for="radio-montanhas"> <input type="radio" name="opcoes" id="radio-montanhas">Montanhas</label>
         </div>
-        <div>
-            <textarea name="sobre" id="textarea" cols="70" rows="10" placeholder=""></textarea>
+        <div class="textarea-geral">
+            <p>Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</p>
+            <textarea name="sobre" id="textarea" cols="80" rows="10" placeholder="Digite aqui..."
+                maxlength="500"></textarea>
             <br>
+        </div>
+        <div class="checkbox">
             <label for="">
                 Melhor data para sua viagem ?
                 <br>
-                <input type="date" name="data" id="data"> 
+                <input type="date" name="data" id="data">
             </label>
             <br>
             <label for="">
-                <input type="checkbox" name="" id=""> Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+                <input type="checkbox" name="checkbox-1" id="checkbox-1"> Gostaria de receber outras incríveis
+                oportunidades oferecidas pela Trybe?
             </label>
             <br>
+            <br>
             <label for="">
-                <input type="checkbox" name="" id="">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+                <input type="checkbox" name="checkbox-2" id="checkbox-2">Concordo que imagens das minhas férias poderão
+                ser usadas na divulgação de concursos futuros.
             </label>
         </div>
-            <button type="submit">Enviar</button>
-            <button id="apaga-tudo">Apagar</button>
+        <button id="submit" type="submit" class="estilo-botao">Enviar</button>
+        <input id="apaga-tudo" class="estilo-botao" type='reset' value='Limpar todos os campos' />
     </form>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
