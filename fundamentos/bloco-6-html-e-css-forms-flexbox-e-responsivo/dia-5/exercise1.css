@@ -12,6 +12,7 @@
   
   body {
   font-size:larger;
+  margin: 20px;
   }
   
   article {
@@ -19,7 +20,7 @@
   }
   
   h1 {
-  
+  font-size: 1.5em;
   }
   
   h2 {
@@ -39,9 +40,38 @@
   }
   
   figure {
-      margin: 0;
+      margin: 10;
   }
   
   figcaption {
     font-size: .8em;
+  }
+
+  @media screen and (min-width: 960px) {
+
+    body {
+        background-color: bisque;
+        font-size: x-large ;
+        margin: 50px;
+    }
+
+    section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    figure {
+        max-width: 350px;
+    }
+
+  }
+
+  @media screen and (min-width: 1400px) {
+   body {
+       background-color: beige;
+       font-size: xx-large;
+       margin-top: 70px;
+       max-width: 1300px;
+   }
+
   }
