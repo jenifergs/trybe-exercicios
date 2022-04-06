@@ -1,0 +1,1 @@
+const soma = requere ('./sum.js')
