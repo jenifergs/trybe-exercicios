@@ -60,5 +60,27 @@ const books = [
       releaseYear: 1928,
     },
   ];
-  
+  // 1 - Encontre o nome da primeira pessoa autora do livro nascida no ano de 1947.
   // Adicione o código do exercício aqui:
+
+  const primeiraPessoa = books.find((book) => book.author.birthYear === 1947)
+  // console.log(primeiraPessoa);
+
+  // 2 - Retorne o nome do livro de menor nome.
+
+
+
+  // 5 - Faça uma função que retorne true , se todas as pessoas autoras nasceram no século XX, ou false , caso contrário.
+  const expectedResult = false;
+
+function everyoneWasBornOnSecXX() {
+  return books.every((book) => (
+    book.author.birthYear > 1900 && book.author.birthYear <= 2000
+  ));
+}
+
+// 6 - Faça uma função que retorne true , se algum livro foi lançado na década de 80, e false , caso contrário.
+
+const someBookWasReleaseOnThe80s = () => books.some((book) => book.releaseYear >= 1980 && book.releaseYear <= 1989);
+
+console.log(someBookWasReleaseOnThe80s());
