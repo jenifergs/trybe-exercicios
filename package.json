@@ -1,0 +1,23 @@
+{
+  "name": "trybe-exercicios",
+  "version": "1.0.0",
+  "description": "Repositório geral para os exercicios feitos na Trybe, organizados por modulos, blocos, e dentro dos blocos os exercicios do dia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenifergs/trybe-exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenifergs/trybe-exercicios/issues"
+  },
+  "homepage": "https://github.com/jenifergs/trybe-exercicios#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
