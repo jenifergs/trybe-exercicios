@@ -5,12 +5,17 @@
 }
 h1 {
     margin: auto;
-    width: 70%;
+    width: 60%;
     text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+    background-color: aqua;
 }
 .form {
   margin: auto;
-  width: 70%;
+  width: 60%;
+  background-color: aquamarine;
+  padding: 10px;
 }
 
 .geral {
