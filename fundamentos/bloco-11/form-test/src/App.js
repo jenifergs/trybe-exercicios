@@ -8,7 +8,7 @@ class App extends React.component {
   }
 
   handleChange = (event) => {
-    const { target { value, name } } = event;
+    const { target = { value, name } } = event;
     this.setState({ [name]: value})
   };
 
