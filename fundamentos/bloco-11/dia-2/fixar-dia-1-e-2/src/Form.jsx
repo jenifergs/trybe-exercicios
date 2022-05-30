@@ -5,7 +5,8 @@ class Form extends Component {
       estadoFavorito: '',
       vaiComparecer: false,
       idade: 0,
-      email: ''
+      email: '',
+      palavraChave: ''
     };
 
 
@@ -19,7 +20,7 @@ class Form extends Component {
   }
 
   render() {
-      const { estadoFavorito, vaiComparecer, idade, email  } = this.state;
+      const { estadoFavorito, vaiComparecer, idade, email, palavraChave  } = this.state;
     return (
       <div>
         <h1>Estados e React - Tecnologia fantástica ou reagindo a regionalismos?</h1>
@@ -41,11 +42,13 @@ class Form extends Component {
             onChange={this.handleChange}
           />
 
-          <select name="" id="" onChange={this.handleChange}>
-              <option value=""></option>
+          <select name="palavraChave" id="" value={ palavraChave } onChange={this.handleChange}>
+              <option value="opçao 1">opçao 1</option>
+              <option value="opçao 2">opçao 2</option>
+              <option value="opçao 3">opçao 3</option>
           </select>
 
-          <input type="email" name="" id="" onChange={this.handleChange} value={ email } />
+          <input type="email" name="email" id="" onChange={this.handleChange} value={ email } />
         </form>
       </div>
     );
