@@ -1,13 +1,25 @@
 import Card from './Card';
 import React from 'react';
 import './App.css';
+import Pokemons from './data';
+
 
 
 class App extends React.Component{
-  render() {
+  render(){
     return (
-      <div>
-        <Card/>
+      <div className='cards'>
+        {
+          Pokemons.map((pokemon) => (
+            <Card 
+            name={pokemon.name}
+            type={pokemon.type}
+            averageWeight={pokemon.averageWeight.value}
+            image={pokemon.image}
+            />
+          )
+          )
+        }
       </div>
     )
   }
