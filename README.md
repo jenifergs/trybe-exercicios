@@ -1,10 +1,10 @@
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jenifer Gonçalves enquanto estudava na Trybe 🚀
+Este repositório contém todos os conteúdos de aprendizagem e exercicios desenvolvidos por Jenifer Gonçalves enquanto estudante na Trybe 🚀
 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computaçãoo, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-Fundamentos do Desenvolvimento Web ✅
-Bloco 1: Unix & Bash
+### Fundamentos do Desenvolvimento Web ✅
+##### Bloco 1: Unix & Bash
 - [X] 1-3: Unix & Bash - Part 1
 - [X] 1-4: Unix & Bash - Part 2
 - [X] Bloco 2: Git, GitHub e Internet
