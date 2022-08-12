@@ -1,0 +1,2 @@
+-- Exercício 1: Descubra como fazer uma pesquisa em qualquer tabela sem utilizar uma linha de código usando o MySql Workbench.
+-- Resposta: Basta clicar com botão direito na tabela e clicar em "select rows - limit 200" O limite vai depender da configuração do workbench.
