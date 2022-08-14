@@ -94,5 +94,32 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 17-4: Projeto - StarWars Datatable com Context API e Hooks
 ##### Bloco 18: Projeto Final de Front-end
 - [X] 18-1: Projeto - App de Receitas
+### Desenvolvimento Back-end ⏳
+##### Bloco 19: Docker - Utilizando Containers
+- [X] 19-1: Docker: Utilizando Containers
+- [X] 19-2: Manipulando imagens no docker
+- [X] 19-3: Orquestrando Containers com Docker Compose
+- [X] 19-4: Projeto - Docker Todo-List
+##### Bloco 20: Introdução à SQL
+- [X] 20-1: Banco de dados SQL
+- [X] 20-2: Encontrando dados em um banco de dados
+- [X] 20-3: Filtrando dados de forma especifica
+- [X] 20-4: Manipulando tabelas
+- [X] 20-5: Projeto - All For One
+##### Bloco 21: Funções SQL, JOINs e Normalização
+- [X] 21-1: Funções mais usadas no SQL
+- [X] 21-2: Descomplicando JOINs
+
+
+
+
+
+
+
+
+
+
+
+
 
 
