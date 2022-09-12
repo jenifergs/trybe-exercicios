@@ -32,5 +32,5 @@ function ordenacaoSimples(array) {
     
     return novoArray
     }
-
+// 
     console.log(ordenacaoSimples([3, 5, 1, 9, 4, 2, 7]));
