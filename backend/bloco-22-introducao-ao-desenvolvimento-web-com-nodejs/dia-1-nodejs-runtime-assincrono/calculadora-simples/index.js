@@ -5,7 +5,7 @@ const num1 = readline.questionInt('Digite o primeiro número: ');
 const oper = readline.question('Digite a operação: ');
 const num2 = readline.questionInt('Digite o segundo número: ');
 
-
+// 
 switch(oper) {
     case('+'):
         operacoes.sum(num1, num2);
