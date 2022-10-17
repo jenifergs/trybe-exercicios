@@ -6,7 +6,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ### Módulo: Fundamentos do Desenvolvimento Web ✅
 ##### Seção 1: Unix & Bash
 - [x] 1-3: Unix & Bash - Part 1
-- [ ] 1-4: Unix & Bash - Part 2
+- [x] 1-4: Unix & Bash - Part 2
 ##### Seção 2: Git, GitHub e Internet
 - [X] 2-1: Git & GitHub - O que é e para que serve?
 - [X] 2-2: Git & GitHub - Entendendo os comandos
