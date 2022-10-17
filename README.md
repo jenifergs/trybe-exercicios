@@ -145,7 +145,39 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-3: Polimorfismos 
 - [X] 9-4: SOLID - Introdução aos princípios S, O e D 
 - [X] 9-5: SOLID - Princípios L e I 
-- [X] 9-6: Projeto - Trybers and Dragons 
+- [ ] 9-6: Projeto - Trybers and Dragons
+##### Seção 10: Projeto - TFC - Trybe Futebol Clube
+- [ ] 10-1: Projeto - Trybers and Dragons
+##### Seção 11: Introdução ao MondoDB
+- [ ] 11-1: MongoDB - Introdução
+- [ ] 11-2: Filter Operators
+- [ ] 11-3: Operadores de consulta
+- [ ] 11-4: Updates Simples
+- [ ] 11-5: Updates Complexos - Arrays
+- [ ] 11-6: Projeto - Commerce
+##### Seção 12: MongoDB com Node.js e POO
+- [ ] 12-1: Mongoose e arquitetura MSC (Camada model)
+- [ ] 12-2: Mongoose e arquitetura MSC (Camada Service e Controller)
+- [ ] 12-3: Projeto - Car shop
+##### Seção 13: Projeto App de Delivery
+- [ ] 13-1: Projeto - App de Delivery
+##### Seção 14: MasterClass - VPS, CI/CD
+- [ ] 14-1: VPS
+- [ ] 14-2: DIA 2 (COM CONTEÚDOS SÍNCRONOS)
+## Módulo: Ciência da Computação 👩‍💻
+- [ ] 1-1: 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
