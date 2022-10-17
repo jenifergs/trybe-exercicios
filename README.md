@@ -17,7 +17,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-3: HTML & CSS - Seletores e posicionamento
 - [X] 3-4: HTML Semântico
 - [X] 3-5: Projeto - Lessons Learned
-##### Seção: Introdução à JavaScript e Lógica de Programação
+##### Seção 4: Introdução à JavaScript e Lógica de Programação
 - [X] 4-1: JavaScript - Primeiros passos
 - [X] 4-2: JavaScript - Array e loop For
 - [X] 4-3: JavaScript - Lógica de Programação e Algoritmos
@@ -144,7 +144,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-2: Heranças e Interfaces 
 - [X] 9-3: Polimorfismos 
 - [X] 9-4: SOLID - Introdução aos princípios S, O e D 
-- [] 9-5: SOLID - Princípios L e I 
+- [X] 9-5: SOLID - Princípios L e I 
 - [X] 9-6: Projeto - Trybers and Dragons 
 
 
