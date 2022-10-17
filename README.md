@@ -3,7 +3,7 @@ Este repositório contém todos os conteúdos de aprendizagem e exercicios desen
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computaçãoo, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-### Módulo: Fundamentos do Desenvolvimento Web ✅
+## Módulo: Fundamentos do Desenvolvimento Web ✅
 ##### Seção 1: Unix & Bash
 - [x] 1-3: Unix & Bash - Part 1
 - [x] 1-4: Unix & Bash - Part 2
@@ -53,7 +53,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-4: JavaScript ES6 - Higher Order Functions - reduce
 - [X] 8-5: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
 - [X] 8-6: Projeto - Zoo functions
-### Módulo: Front-end 🖥️
+## Módulo: Front-end 🖥️
 ##### Seção 1: JavaScript e Testes Assíncronos
 - [X] 1-1: JavaScript Assíncrono e Callbacks
 - [X] 1-2: JavaScript Assíncrono - Fetch API e async/await
@@ -95,7 +95,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-4: Projeto - StarWars Datatable com Context API e Hooks
 ##### Seção 10: Projeto Final de Front-end
 - [X] 10-1: Projeto - App de Receitas
-### Módulo: Backend ⚙️
+## Módulo: Backend ⚙️
 ##### Seção 1: Docker - Utilizando Containers
 - [X] 1-1: Docker: Utilizando Containers
 - [X] 1-2: Manipulando imagens no docker
@@ -165,7 +165,54 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 14-1: VPS
 - [ ] 14-2: DIA 2 (COM CONTEÚDOS SÍNCRONOS)
 ## Módulo: Ciência da Computação 👩‍💻
-- [ ] 1-1: 
+##### Seção 1: Introdução a Python
+- [ ] 1-1: Aprendendo Python
+- [ ] 1-2: Entrada e saída de dados
+- [ ] 1-3: Testes
+- [ ] 1-4: Projeto - Job insights
+##### Seção 2: Padrões de projetos
+- [ ] 2-1: P.O.O em Python
+- [ ] 2-2: PAdrões - Interator, Adapter, Strategy
+- [ ] 2-3: PAdrões - Decorator, Observer, Factory
+- [ ] 2-4: Projeto - Relatórios de estoque
+##### Seção 3: Redes e raspagem de dados
+- [ ] 3-1: Arquitetura de redes
+- [ ] 3-2: Raspagem de dados
+- [ ] 3-3: Outras ferramentas de raspagem de dados
+- [ ] 3-4: Projeto - Tech news
+##### Seção 4: Algoritmos
+- [ ] 4-1: Complexidade de algoritmos
+- [ ] 4-2: Recursividade e estratégias para solução de problemas
+- [ ] 4-3: Algoritmos de ordenação e busca
+- [ ] 4-4: Projeto - Algoritmos
+##### Seção 5: Estruturas de dados 1: Arrays, listas, filas e pilhas
+- [ ] 5-1: Arquitetura de computadores
+- [ ] 5-2: Arrays
+- [ ] 5-3: Nó e Listas encadeadas 
+- [ ] 5-4: Pilhas e filas
+- [ ] 5-5: Projeto - TING - Trybe is not Google
+##### Seção 6: Estruturas de dados 2: Hashmaps e Sets
+- [ ] 6-1: Hashmap e Dict
+- [ ] 6-2: Set
+- [ ] 6-3: Projeto - Restaurant Orders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
