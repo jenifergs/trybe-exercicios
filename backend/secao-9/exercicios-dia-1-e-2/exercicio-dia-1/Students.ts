@@ -1,21 +1,26 @@
 import Person from "./Person";
+import Enrollable from "./Enrollable";
 import { v4 as uuidv4 } from 'uuid';
 
-export default class Students extends Person {
-  private _matricula: number | string;
+export default class Students extends Person implements Enrollable {
   _provas: number[];
   _trabalhos: number[];
+  enrollment: string;
 
   constructor(name: string, birthDate: Date) {
     super(name, birthDate );
     // this._nome = name;
-    this._matricula = this.generateEnrollment();
+    this.enrollment = this.generateRegistration();
     this._provas = [];
     this._trabalhos = [];
   }
+  generateRegistration(): string {
+    const random = uuidv4().slice(0, 16);
+    return random;
+  }
 
   get matricula() {
-    return this._matricula;
+    return this.enrollment;
   }
 
   set provas(provas: number[]) {
@@ -45,12 +50,6 @@ export default class Students extends Person {
     const media = this.somaDasNotas() / this._provas.length;
     return media;
   }
-
-  generateEnrollment(): string {
-    const random = uuidv4().slice(0, 16);
-    return random;
-  }
-
 }
 
 

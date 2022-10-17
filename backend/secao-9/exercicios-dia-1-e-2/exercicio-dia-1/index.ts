@@ -9,18 +9,7 @@ import Teacher from './Teacher';
 // // student1.traba.prettierrclhos = [3,4]
 
 // console.log(student1.mediaDasNotas());
-// console.log(student1.somaDasNotas());
-
-
-const jenifer = new Person('Jenifer', new Date('1990-01-01'));
-console.log(jenifer);
-console.log(jenifer.name);
-console.log(jenifer.birthDate);
-const rafael = new Person('Rafael', new Date('2000-11-29'));
-
-console.log(rafael);
-console.log(rafael.name);
-console.log(rafael.birthDate);
+// console.log(student1.somaDasNotas());x   
 
 const novo = new Students('jeje', new Date('2000-11-17'));
 console.log(novo);
@@ -37,13 +26,12 @@ const portugues = new Subject('Português');
 console.log(portugues);
 
 
-const prof = new Teacher('Rafael', new Date('2000-11-29'), new Subject('História'));
-console.log(prof);
+const prof3 = new Teacher('luluzinha', new Date('1990-11-29'), 2000, portugues);
+console.log(prof3);
 
-const prof2 = new Teacher('Rafaelzinho', new Date('1990-11-29'), matematica);
-console.log(prof2);
-prof2.salary = 1000;
-console.log(prof2);
-console.log(prof2);
+const est1 = new Students('Rafael', new Date('2000-11-29'));
+
+console.log(est1);
+
 
 
