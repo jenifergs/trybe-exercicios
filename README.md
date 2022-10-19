@@ -145,7 +145,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-3: Polimorfismos 
 - [X] 9-4: SOLID - Introdução aos princípios S, O e D 
 - [X] 9-5: SOLID - Princípios L e I 
-- [ ] 9-6: Projeto - Trybers and Dragons
+- [X] 9-6: Projeto - Trybers and Dragons
 ##### Seção 10: Projeto - TFC - Trybe Futebol Clube
 - [ ] 10-1: Projeto - Trybers and Dragons
 ##### Seção 11: Introdução ao MondoDB
