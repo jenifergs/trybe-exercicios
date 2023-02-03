@@ -160,10 +160,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 12-2: Mongoose e arquitetura MSC (Camada Service e Controller)
 - [X] 12-3: Projeto - Car shop
 ##### Seção 13: Projeto App de Delivery
-- [ ] 13-1: Projeto - App de Delivery
-##### Seção 14: MasterClass - VPS, CI/CD
-- [ ] 14-1: VPS
-- [ ] 14-2: DIA 2 (COM CONTEÚDOS SÍNCRONOS)
+- [X] 13-1: Projeto - App de Delivery
 ## Módulo: Ciência da Computação 👩‍💻
 ##### Seção 1: Introdução a Python
 - [ ] 1-1: Aprendendo Python
